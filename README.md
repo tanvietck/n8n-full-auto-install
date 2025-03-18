@@ -1,0 +1,1 @@
+# n8n-full-auto-install
