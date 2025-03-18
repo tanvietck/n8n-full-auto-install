@@ -21,9 +21,8 @@ Chỉ cần chạy một dòng lệnh duy nhất, hệ thống sẽ:
 
 ### Bước 1: Chạy script tự động
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/<your-username>/<your-repo>/main/n8n-full-auto-install.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/tanvietck/n8n-full-auto-install/2a1f921244bddfc8d3830ff4b99df12cca67ca1a/n8n-full-auto-install.sh)"
 ```
-
 ### Bước 2: Nhập thông tin khi được yêu cầu:
 - Mật khẩu admin cho n8n
 - Domain trỏ về server (ví dụ: `n8n.yourdomain.com`)
